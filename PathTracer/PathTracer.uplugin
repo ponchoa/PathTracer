@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "PathTracer",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Benoît Ponchon",
+	"CreatedByURL" : "",
+	"EngineVersion" : "4.12.5",
+	"Description" : "A simple plugin for your playtests that allows the editor to trace the paths of every player.",
+	"Category" : "",
+	"EnabledByDefault" : true,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "PathTracer",
+			"Type" : "Editor"
+		}
+	]
+}
